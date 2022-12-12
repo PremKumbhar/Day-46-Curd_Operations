@@ -59,7 +59,7 @@ const createEmployeePayrollJSON = () => {
             _profilePic: '../assets/profile-images/Ellipse -2.png'
         },
         {
-            _name: 'Rashmika Mandanna',
+            _name: 'Vijaya Kumari',
             _gender: 'Female',
             _department: [
                 'Finance'
